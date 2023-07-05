@@ -8,13 +8,14 @@ public class OOPs {
           P1.color = "Yellow";
           System.out.println(P1.color);
 
-          BankAccount myAcc = new BankAccount();
+          BankAccount myAcc = new BankAccount(); //Bank account object for the access modifier example
           myAcc.username = "rohitGoswami";
-          myAcc.setPassword("abcdefghi");
+          myAcc.setPassword("abcdefghi"); //we can only change the password (which is private) by using fuction but we still can't access it
 
     }
 }
-
+// Access Modifiers Example
+//
 class BankAccount{
     public String username;
     private String password;
@@ -23,7 +24,7 @@ class BankAccount{
         password = pwd;
     }
 }
-
+//
 class Pen{
     String color;
     int tip;
