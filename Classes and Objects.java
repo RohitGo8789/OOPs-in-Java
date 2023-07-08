@@ -11,7 +11,7 @@ public class OOPs {
 
     }
 }
-
+// Creating classes
 class Pen{
     String color;
     int tip;
