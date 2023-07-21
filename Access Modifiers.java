@@ -7,7 +7,7 @@ public class Access_Modifiers{
   }
 }
 // Access Modifiers Example
-//
+
 class BankAccount{
     public String username;
     private String password;
@@ -16,4 +16,4 @@ class BankAccount{
         password = pwd;
     }
 }
-//
+
