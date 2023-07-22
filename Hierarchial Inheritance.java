@@ -1,4 +1,4 @@
-//single base class and multiple derived classes
+// single base class and multiple derived classes
 public class Hierarchial_Inheritance {
     public static void main(String args[]){
         Bird crow = new Bird();
