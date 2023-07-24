@@ -25,7 +25,7 @@ class Student{
     String password;
     int marks[];
 
-    //Sjallow Copy constructor
+    //Shallow Copy constructor
     // Student(Student s1){
     //     marks = new int[3];
     //     this.name = s1.name;
