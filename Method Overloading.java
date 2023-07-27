@@ -1,5 +1,5 @@
 public class Method_Overloading {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Calculator calc = new Calculator();
         System.out.println(calc.sum(1,5));
         System.out.println(calc.sum((float)1.6,(float)5.3));
