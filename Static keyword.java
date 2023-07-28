@@ -4,7 +4,7 @@ public class Static_Keyword {
         s1.schoolName = "sunshine";
 
         Student s2 = new Student();
-        System.out.println(s2.schoolName);
+         System.out.println(s2.schoolName);
     }
 }
 
