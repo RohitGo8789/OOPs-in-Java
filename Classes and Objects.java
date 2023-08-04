@@ -1,6 +1,6 @@
 public class OOPs {
     public static void main(String args[]){
-          Pen P1 = new Pen(); //Created a pen object called P1
+          Pen P1 = new Pen(); // Created a pen object called P1
           P1.setColor("Blue");
           System.out.println(P1.color);
           P1.setTip(5);
