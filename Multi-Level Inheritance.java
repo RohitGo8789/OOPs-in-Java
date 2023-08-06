@@ -7,7 +7,7 @@ public class Multi_level_Inheritance {
     }
 }
 
-//base class
+// base class
 class Animal{
     String color;
 
