@@ -11,7 +11,7 @@ interface ChessPlayer{
 
 class Queen implements ChessPlayer{
     public void moves(){
-        System.out.println("move up, down, left, right, diagonal (in all 4 directions)");
+        System.out.println(" move up, down, left, right, diagonal (in all 4 directions)");
     }
 }
 
