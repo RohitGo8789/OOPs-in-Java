@@ -1,4 +1,4 @@
-public class Method_Overloading {
+public class Method_Overloading{
     public static void main(String args[]) {
         Calculator calc = new Calculator();
         System.out.println(calc.sum(1,5));
