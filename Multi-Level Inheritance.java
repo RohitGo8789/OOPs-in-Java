@@ -1,4 +1,4 @@
-public class Multi_level_Inheritance {
+public class Multi_level_Inheritance{
     public static void main(String args[]){
         Dog kutta = new Dog();
         kutta.eat();
