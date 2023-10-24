@@ -1,4 +1,4 @@
-public class OOPs {
+public class OOPs{
     public static void main(String args[]){
           Pen P1 = new Pen(); // Created a pen object called P1
           P1.setColor("Blue");
